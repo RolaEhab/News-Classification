@@ -9,10 +9,8 @@ This project combines data analysis, machine learning, and a React-based web app
 - **React** for building the front-end web application
 - **Flask** for backend API
 
-  <video controls>
-    <source src="New Folder/NewsPredVideo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)
+[Watch the video on YouTube](https://youtu.be/K-fyNJPDDr4?si=7z56g_QODJGp9O5V)
 
 ### To Run the Project on VS:
 
