@@ -8,6 +8,8 @@ This project combines data analysis, machine learning, and a React-based web app
 - **scikit-learn** for machine learning
 - **React** for building the front-end web application
 - **Flask** for backend API
+  
+https://github.com/user-attachments/assets/873d886c-6154-44de-a016-4fb5a25ab800
 
 ### To Run the Project on VS:
 
