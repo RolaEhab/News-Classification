@@ -10,7 +10,7 @@ This project combines data analysis, machine learning, and a React-based web app
 - **Flask** for backend API
 
   <video controls>
-    <source src="NewsPredVideo.mp4" type="video/mp4">
+    <source src="New Folder/NewsPredVideo.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
